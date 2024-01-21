@@ -1,3 +1,4 @@
+The power requirement of the consumer is always dynamic. The stability of the grid depends on how efficiently the system is handling the fluctu-ating power requirement of the customer. With the emergence of machine learning, we found a technique that can be used for the prediction ofpower consumption and stability of the grid. I used the smart grid stability dataset available on the site of Kaggle for the trainingand testing of different machine learning models. From the simulation result, it has been found that a model designed using a support vectormachine (SVM) classifier has shown the highest accuracy on the scale of precision, recall, F-score, and accuracy
 Datasets
 https://www.kaggle.com/datasets/pcbreviglieri/smart-grid-stability
 
